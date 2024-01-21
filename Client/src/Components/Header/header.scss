@@ -1,0 +1,20 @@
+
+.textImageHEader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    .textHeader{
+        z-index: 999;
+    position: absolute;
+}
+
+.header{
+    position: relative;
+    
+    img{background-position: center;
+        object-fit: cover; 
+    }
+   
+}
+}

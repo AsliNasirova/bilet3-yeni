@@ -1,0 +1,22 @@
+.navbar {
+    height: 50px;
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+
+    .switch_nav {
+
+        gap: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        a {
+            color: white;
+        }
+    }
+}
